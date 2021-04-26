@@ -7,7 +7,7 @@
 
 4:Hatalı şehir ismi girersen uyarı mesajı alacaksın.
 
-uygulamanın githup dosya linki: https://github.com/0418-omer/HavaAPP
+uygulamanın gitHup dosya linki: https://github.com/0418-omer/HavaAPP
 
 Hava durumu verilerinin çekildiği Api linkleri :https://openweathermap.org/api
 
